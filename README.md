@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thatcher King
 
-🎓 **Computer Science student @ University of Alaska Anchorage**  
-💻 **Service Desk Manager @ Alaska Pacific University**  
+🎓 **Computer Science student**  
+💻 **Service Desk Manager**  
 🧠 Exploring **AI, Data Science, and Computer Neuroscience**  
 
 ---
@@ -33,7 +33,7 @@ These projects taught me a lot about system design, planning, and how technology
 ---
 
 ### 🧩 Projects & Work
-- **AI & Robotics Club @ UAA** — Learning and experimenting with small AI/ML projects  
+- **AI & Robotics Club** — Learning and experimenting with small AI/ML projects  
 - **Service Desk Operations** — Process documentation, automation, and infrastructure modernization  
 - **C++ Spaceship Game** — A small console project from my first programming course
   
