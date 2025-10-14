@@ -50,7 +50,6 @@ These projects taught me a lot about system design, planning, and how technology
 ### 📬 Connect With Me
 [📧 ttking@alaska.edu](mailto:ttking@alaska.edu)  
 [💼 LinkedIn](https://www.linkedin.com/in/thatcher-king-3b0669178)  
-[🐙 GitHub](https://github.com/thatcherty)
 
 ---
 
