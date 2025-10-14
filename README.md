@@ -36,7 +36,7 @@ These projects taught me a lot about system design, planning, and how technology
 - **AI & Robotics Club @ UAA** — Learning and experimenting with small AI/ML projects  
 - **Service Desk Operations** — Process documentation, automation, and infrastructure modernization  
 - **C++ Spaceship Game** — A small console project from my first programming course
-- 
+  
 ---
 
 ### 🌱 Currently Learning
