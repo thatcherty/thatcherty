@@ -51,7 +51,5 @@ These projects taught me a lot about system design, planning, and how technology
 [📧 ttking@alaska.edu](mailto:ttking@alaska.edu)  
 [💼 LinkedIn](https://www.linkedin.com/in/thatcher-king-3b0669178)  
 
----
 
-> “Technology should not only work efficiently — it should make life better, more accessible, and more meaningful.”
 
